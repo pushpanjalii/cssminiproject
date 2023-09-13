@@ -1,2 +1,2 @@
-# cssminiproject
-This is a css mini project 
+# A Photography website
+A photography website.
